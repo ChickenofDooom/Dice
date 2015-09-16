@@ -18,7 +18,8 @@ void draw()
   dieCount=dieCount+stupid.dieNum;
     }
   }
-  text("Numero de Diceo:" +dieCount,150,310);
+  text("Numero de Dotos:" +dieCount,200,315);
+  text("Numero de Diceo: 9",100,315);
 }
 void mousePressed()
 {
